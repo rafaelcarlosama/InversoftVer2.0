@@ -1,0 +1,12 @@
+.css_id_proveedor_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_proveedor_grid_line {vertical-align: top;text-align: right;}
+.css_nombre_proveedor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nombre_proveedor_grid_line {vertical-align: top;text-align: right;}
+.css_telefono_fijo_proveedor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_telefono_fijo_proveedor_grid_line {vertical-align: top;text-align: right;}
+.css_telefono_celular_proveedor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_telefono_celular_proveedor_grid_line {vertical-align: top;text-align: right;}
+.css_direccion_proveedor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_direccion_proveedor_grid_line {vertical-align: top;text-align: right;}
+.css_id_usuario_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_usuario_grid_line {vertical-align: top;text-align: right;}
